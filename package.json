@@ -2,7 +2,8 @@
   "name": "color-theme-b33e5c",
   "displayName": "color_theme_b33e5c",
   "description": "color extensions",
-  "version": "0.0.1",
+  "version": "0.1.0",
+  "publisher": "pisa-kunm-t",
   "engines": {
     "vscode": "^1.89.0"
   },
