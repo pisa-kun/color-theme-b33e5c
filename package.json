@@ -1,0 +1,21 @@
+{
+  "name": "color-theme-b33e5c",
+  "displayName": "color_theme_b33e5c",
+  "description": "color extensions",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "color_theme_winered_b33e5c",
+        "uiTheme": "vs",
+        "path": "./themes/color_theme_winered_b33e5c-color-theme.json"
+      }
+    ]
+  }
+}
