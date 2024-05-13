@@ -989,7 +989,7 @@
       "name": "illegal",
       "scope": "invalid.illegal",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#b33e5c"
       }
     },
     {
@@ -1003,21 +1003,21 @@
       "name": "Broken",
       "scope": "invalid.broken",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#b33e5c"
       }
     },
     {
       "name": "Deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#b33e5c"
       }
     },
     {
       "name": "Unimplemented",
       "scope": "invalid.unimplemented",
       "settings": {
-        "foreground": "#ffffff"
+        "foreground": "#b33e5c"
       }
     },
     {
