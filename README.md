@@ -1,7 +1,7 @@
 # color-theme-b33e5c README
 
+![alt text](sample-image.png)
 making this web site
-
 https://themes.vscode.one/
 
 [this-theme](https://themes.vscode.one/theme/pisakun/bDHb3XiG)
